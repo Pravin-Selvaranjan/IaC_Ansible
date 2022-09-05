@@ -1,6 +1,7 @@
 # Ansible
 
-![ansible](https://user-images.githubusercontent.com/110179866/188429209-7fea49b6-400f-4de1-8eab-90651cb46838.jpeg)
+![ansible (1)](https://user-images.githubusercontent.com/110179866/188485780-7ac2fbc0-bc28-4470-8a07-42eb0760d227.jpeg)
+
 
 
 Ansible is one of the most used tools for managing cloud and on-premises infrastructure. If you are looking for a flexible and powerful tool to automate your infrastructure management and configuration tasks Ansible is the way to go.
@@ -33,6 +34,10 @@ Ansible is one of the most used tools for managing cloud and on-premises infrast
 - Roles: Redistributable units of organization that allow users to share automation code easier. Learn why Roles are useful useful in Ansible.
 
 - YAML: A popular and simple data format that is very clean and understandable by humans.
+
+
+![1_W58VFc0-DYHd1uUS3DMsTA](https://user-images.githubusercontent.com/110179866/188485924-64d438b5-3d55-490d-a321-8a6a7eee4309.png)
+
 
 
 
