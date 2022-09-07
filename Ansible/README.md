@@ -277,3 +277,19 @@ vagrant@controller:/etc/ansible$ cat npm-playbook.yml
 ```
 
 
+# Run a Playbook on prem that goes to Cloud with the correct auth method and launches a service
+
+Ansible Vault Dependancies 
+- python 3.7
+- pip3
+- aws cli
+- ansible vault folder structure
+- `/etc/ansible` - in this location create `group_vars/all/file.yml` to encrypt AWS keys
+- `sudo ansible-playbook playbook.yml --ask-vault-pass--tags ec2_create
+
+
+- automate the ssh key access
+- copy pem file as well as generate another keypair called eng122
+- in the playbook copy the .pub file to the ec2
+- `sudo ansible-vault create pass.yml`
+- `sudo chmod 600 pass.yml` permissions 
