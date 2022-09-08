@@ -380,3 +380,6 @@ Ansible Vault Dependancies
       tags: ['never', 'create_ec2']
 ```
 
+- Run the playbook using `ansible-playbook playbook.yml --ask-vault-pass --tags create_ec2`
+
+- Remember to use the tags, and include the vault pass when using access keys
