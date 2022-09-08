@@ -1,4 +1,6 @@
 # Terraform
+![1280px-Terraform_Logo svg](https://user-images.githubusercontent.com/110179866/189091692-2dab3e1c-7b81-4c30-a970-f54c9a758110.png)
+
 
 - In its most basic form, Terraform is an application that converts configuration files known as HCL (Hashicorp Configuration Language) into real world infrastructure, usually in Cloud providers such as AWS, Azure or Google Cloud Platform.
 - Infrastructure as Code (IaC) is a widespread terminology among DevOps professionals. It is the process of managing and provisioning the complete IT infrastructure (comprises both physical and virtual machines) using machine-readable definition files. It is a software engineering approach toward operations. It helps in automating the complete data center by using programming scripts.
